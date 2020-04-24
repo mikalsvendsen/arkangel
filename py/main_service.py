@@ -63,4 +63,4 @@ async def send_command(ctx, *arg):
     await ctx.send('```bash\n{}```'.format(results.stdout.decode("utf-8")))
 
 
-bot.run('NzAyOTkwNTQ4NTI4NzkxNjUz.XqIKeA.C-S8VAlkynQ0YlNahQXy_KocCzk')
+bot.run('token')
